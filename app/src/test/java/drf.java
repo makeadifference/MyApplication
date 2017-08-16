@@ -3,4 +3,8 @@
  */
 
 public class drf {
+    public drf(int a) {
+        System.out.println(a);
+    }
+    int b = 10;
 }
